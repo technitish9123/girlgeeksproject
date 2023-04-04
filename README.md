@@ -1,4 +1,4 @@
-# Potato Disease Classification
+# Acne Detection Classification
 
 ## Setup for Python:
 
